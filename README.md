@@ -1,4 +1,4 @@
-# rem-layout
+# RemLayout
 两种rem布局比较
 
 ### rem.js
